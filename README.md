@@ -1,9 +1,6 @@
 # Portfolio-de-Projetos
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
-<p align='center'>
-    <img src='banner.png'<
-</p>
 
 # Romário Barbosa
 <sub>*Data Scientist*</sub>
